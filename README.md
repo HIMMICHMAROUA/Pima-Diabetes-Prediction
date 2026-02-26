@@ -1,8 +1,7 @@
 # 🩺 Pima Diabetes - Predicting Diabetes from Imperfect Medical Data
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-green?style=for-the-badge)
+
 
 ---
 
@@ -10,7 +9,7 @@
 
 This project aims to **predict diabetes** in Pima women using a real medical dataset containing biologically impossible zero values (missing data). The project covers the full data science pipeline: cleaning, visualization, feature engineering, and machine learning modeling.
 
-> 👥 **Group Project** — Realized by **Maroua Himmich**, **Rachid** and **Alban** at **Junia ISEN Lille** (2025)
+> (2025)
 
 ---
 
